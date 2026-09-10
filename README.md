@@ -118,8 +118,8 @@ CampusConnect/
 ├── js/
 │   └── script.js
 │
-├── assets/
-│   └── images/
+├── images/
+│   
 │
 ├── README.md
 └── PROJECT_REPORT.md
