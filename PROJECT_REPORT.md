@@ -24,11 +24,11 @@ The main features include responsive navigation, dynamic event cards, event sear
 
 ## Screenshots
 
-The final documentation includes screenshots of the Home page, Events page, About page, Registration page, responsive mobile layout, JavaScript functionality, Git commands, GitHub repository and deployed website.
+Screenshots for the final documentation include the Home page, Events page, About page, Registration page, responsive mobile and tablet layouts, JavaScript functionality, Git commands, GitHub repository and the deployed website.
 
 ## GitHub Repository
 
-https://github.com/jbora890/CampusConnect.git
+https://github.com/jbora890/CampusConnect
 
 ## Live Website
 
@@ -49,3 +49,32 @@ This project improved my understanding of responsive web design, semantic HTML, 
 ## Future Improvements
 
 Future versions could include user authentication, an administrator dashboard, a backend database, email notifications, event reminders and online attendance management. These improvements would make CampusConnect more suitable for real-world campus use.
+
+
+
+## SCREENSHOTS
+
+<img width="1560" height="1416" alt="1" src="https://github.com/user-attachments/assets/f5ca9558-dde2-40f2-81dc-9a00d0a1d265" />
+
+<img width="1498" height="1405" alt="2" src="https://github.com/user-attachments/assets/63823f23-bd19-4f61-9a82-65c4822fb796" />
+
+<img width="1593" height="1417" alt="3" src="https://github.com/user-attachments/assets/1b8ea407-a153-49a1-a987-0eef7ad5c36f" />
+
+<img width="1600" height="1188" alt="4" src="https://github.com/user-attachments/assets/e80e3759-3c05-46ad-9c6f-d49ecf580a03" />
+
+<img width="1600" height="1188" alt="4" src="https://github.com/user-attachments/assets/7b6210ef-0d1d-449f-b2a0-2659ce50d812" />
+
+<img width="1600" height="1277" alt="WhatsApp Image 2026-09-10 at 12 19 57 PM" src="https://github.com/user-attachments/assets/10c6bbe1-630f-4366-8766-eb7684b1e091" />
+
+<img width="1600" height="951" alt="WhatsApp Image 2026-09-10 at 12 07 20 PM" src="https://github.com/user-attachments/assets/ffa71f29-3f65-43a9-bfc7-59c47b54462e" />
+
+<img width="1600" height="979" alt="WhatsApp Image 2026-09-10 at 11 59 51 AM" src="https://github.com/user-attachments/assets/9cbc786a-c020-4185-9c38-1619e4ae36ac" />
+
+<img width="510" height="480" alt="Screenshot 2026-09-10 115846" src="https://github.com/user-attachments/assets/8a844194-cf69-4294-8839-54e653817368" />
+
+<img width="215" height="452" alt="Screenshot 2026-09-10 115752" src="https://github.com/user-attachments/assets/c10c367f-3052-4523-a8c7-a71fd190cf73" />
+
+<img width="634" height="166" alt="Screenshot 2026-09-10 113403" src="https://github.com/user-attachments/assets/aae4a813-3801-4ea6-b629-114a5d3f1e14" />
+
+<img width="593" height="98" alt="Screenshot 2026-09-10 113300" src="https://github.com/user-attachments/assets/74248c58-e609-4bb2-b98a-8026e8eb8673" />
+
