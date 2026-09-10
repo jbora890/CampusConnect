@@ -32,7 +32,7 @@ https://github.com/jbora890/CampusConnect.git
 
 ## Live Website
 
-https://github.com/jbora890/CampusConnect
+https://jbora890.github.io/CampusConnect/
 
 ## Challenges Faced
 
