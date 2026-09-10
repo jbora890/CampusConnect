@@ -74,7 +74,3 @@ Future versions could include user authentication, an administrator dashboard, a
 
 <img width="215" height="452" alt="Screenshot 2026-09-10 115752" src="https://github.com/user-attachments/assets/c10c367f-3052-4523-a8c7-a71fd190cf73" />
 
-<img width="634" height="166" alt="Screenshot 2026-09-10 113403" src="https://github.com/user-attachments/assets/aae4a813-3801-4ea6-b629-114a5d3f1e14" />
-
-<img width="593" height="98" alt="Screenshot 2026-09-10 113300" src="https://github.com/user-attachments/assets/74248c58-e609-4bb2-b98a-8026e8eb8673" />
-
